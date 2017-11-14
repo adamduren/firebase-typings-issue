@@ -1,0 +1,18 @@
+{
+  "name": "admin-sdk",
+  "version": "1.0.0",
+  "description": "Package to demonstrate a firebase typings issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Adam Duren",
+    "email": "adamduren@gmail.com",
+    "url": "https://adamduren.com/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^5.5.0"
+  }
+}
